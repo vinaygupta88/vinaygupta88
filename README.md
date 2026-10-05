@@ -1,13 +1,8 @@
 <div align="center">
-
 # 👋 Hi, I'm **Vinay Kumar**
-
-### •Software Developer •🤖 AI / ML Engineer • Generative AI • RAG  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI%2FML+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;Exploring+AI+Agents+%26+Vector+Databases;Research+%7C+Innovation+%7C+Real-World+AI" />
-
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;Exploring+AI+Agents+%26+Vector+Databases" />
 <br>
-
 <a href="https://vinaygupta88.github.io/Myportfolio/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white" />
 </a>
@@ -226,32 +221,24 @@ Exploring **LLMs, RAG pipelines, AI Agents and intelligent workflows**.
 <div align="center"> <table width="100%"> <tr> <td width="50%" valign="top"> <h2>📚 Currently Learning</h2> <div style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;"> <ul> <li>🧠 LLMs</li> <li>🔎 RAG</li> <li>🗄️ Vector Databases</li> <li>🤖 AI Agents</li> <li>🛰️ Remote Sensing</li> </ul> </div> </td> <td width="50%" valign="top"> <h2>🏆 Achievements</h2> <div style="border: 1px solid #30363d; border-radius: 12px; padding: 15px;"> <ul> <li>🏅 <b>2nd Position</b> — College Coding Competition</li> <li>📜 <b>NPTEL</b> — C Programming</li> <li>📜 <b>NPTEL</b> — Python for Data Science</li> <li>🚀 <b>ISRO Internship</b> — URSC</li> </ul> </div> </td> </tr> </table> </div>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaygupta88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<td width="33.33%">
-<img height="170" width="100%" src="https://github-readme-stats.vercel.app/api?username=vinaygupta88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</td>
-
-<td width="33.33%">
-<img height="170" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaygupta88&layout=compact&theme=tokyonight&hide_border=true" />
-</td>
-
-<td width="33.33%">
-<img height="170" width="100%" src="https://streak-stats.demolab.com?user=vinaygupta88&theme=tokyonight&hide_border=true" />
-</td>
-
-</tr>
-</table>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaygupta88&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vinaygupta88&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 # 🤝 Let's Connect
 
@@ -269,7 +256,7 @@ Exploring **LLMs, RAG pipelines, AI Agents and intelligent workflows**.
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 ### 💬 Open to
 

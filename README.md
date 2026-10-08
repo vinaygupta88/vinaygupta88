@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi, I'm **Vinay Kumar**
+# 👋 Hi, I'm <b>Vinay Kumar</b>
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Software+Developer;AI%2FML+Engineer;Generative+AI+%7C+LLMs+%7C+RAG;Machine+Learning+%7C+Deep+Learning;Exploring+AI+Agents+%26+Vector+Databases" />
 <br>
